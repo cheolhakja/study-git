@@ -9,3 +9,5 @@ print(a)
 print("ver2")
 
 print("use git clone for working with another computer")
+
+print("2nd computer(directory)  add something  to   test git pull")
